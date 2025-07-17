@@ -28,10 +28,10 @@ Built with **Next.js**, **FastAPI**, and **Tailwind CSS**, this system empowers 
 | Layer       | Technology        |
 |-------------|-------------------|
 | Frontend    | Next.js, Tailwind CSS, Recharts |
-| Backend     | FastAPI, Python, joblib |
-| ML Models   | scikit-learn, XGBoost |
+| Backend     | FastAPI, Python |
+| ML Models   | scikit-learn, RandomForestRegressor |
 | Database    | MongoDB  |
-| Visualization | Grafana (optional iframe embedding) |
+| Visualization | Grafana ( iframe embedding) |
 | Deployment  |Render|
 
 ---
