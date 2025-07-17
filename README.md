@@ -31,7 +31,7 @@ Built with **Next.js**, **FastAPI**, and **Tailwind CSS**, this system empowers 
 | Backend     | FastAPI, Python |
 | ML Models   | scikit-learn, RandomForestRegressor |
 | Database    | MongoDB  |
-| Visualization | Grafana ( iframe embedding) |
+| Visualization | Grafana (iframe embedding) |
 | Deployment  |Render|
 
 ---
